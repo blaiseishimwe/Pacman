@@ -9,6 +9,7 @@ When you click the "Start Game" button, the pacman or pacmen created start movin
 When a given pacman hits the edge of the screen, it changes direction to stay within the frame of the web page.
 This was achieved by using conditionals and switching velocities whenever a pacman hits the edge.
 In the future, I want to switch images whenever a pacman hits the edge and to have them change directions whenever they collide.
+to view the web page, follow the link: https://blaiseishimwe.github.io/Pacman/
 
 
 
